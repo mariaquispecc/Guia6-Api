@@ -37,4 +37,10 @@ Se empleará la API de Aliexpress por ser un e-commerce, por lo cual podemos rel
 
 ## Supertest
 
-<img width="419" height="122" alt="image" src="https://github.com/user-attachments/assets/d1f80027-276c-4392-9fec-1049befb5fd4" />
+Código: 
+
+<img width="769" height="658" alt="image" src="https://github.com/user-attachments/assets/b6843bd5-b342-452a-9b37-23a9bb2646c6" />
+
+Ejecución:
+
+<img width="719" height="422" alt="image" src="https://github.com/user-attachments/assets/d1f80027-276c-4392-9fec-1049befb5fd4" />
