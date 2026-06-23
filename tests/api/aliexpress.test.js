@@ -2,7 +2,7 @@ const request = require('supertest');
 
 const API = 'https://aliexpress-datahub.p.rapidapi.com';
 const headers = {
-  'x-rapidapi-key': 'YOUR_API_KEY',
+  'x-rapidapi-key': '9ee9a574a3msh509699532d7c84ap1de7e5jsnbea64494856a',
   'x-rapidapi-host': 'aliexpress-datahub.p.rapidapi.com',
   'Content-Type': 'application/json'
 };
